@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5138a5fe13da7d4d978e2216337908d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11948
+  packageName: Micro Wizard Morgan Fizban
+  packageVersion: 1.2
+  assetPath: Assets/Bitgem/Micro_Wizard/Prefabs/micro_wizard.prefab
+  uploadId: 314735
